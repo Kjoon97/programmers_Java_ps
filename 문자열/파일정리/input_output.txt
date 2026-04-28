@@ -1,0 +1,17 @@
+--------------input1-------------------------
+8
+sbrus.txt
+spc.spc
+acm.icpc
+korea.icpc
+sample.txt
+hello.world
+sogang.spc
+example.txt
+
+
+--------------output1-------------------------
+icpc 2
+spc 2
+txt 3
+world 1

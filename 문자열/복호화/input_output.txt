@@ -1,0 +1,12 @@
+--------------input1-------------------------
+3
+asvdge ef ofmdofn
+xvssc kxvbv
+hull full suua pmlu
+
+
+--------------output1-------------------------
+f
+v
+?
+
