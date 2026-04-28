@@ -1,0 +1,11 @@
+--------------input1-------------------------
+3
+21 Junkyu
+21 Dohyun
+20 Sunyoung
+
+
+--------------output1-------------------------
+20 Sunyoung
+21 Junkyu
+21 Dohyun

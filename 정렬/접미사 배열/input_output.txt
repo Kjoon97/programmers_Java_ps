@@ -1,0 +1,12 @@
+--------------input1-------------------------
+baekjoon
+
+--------------output1-------------------------
+aekjoon
+baekjoon
+ekjoon
+joon
+kjoon
+n
+on
+oon
